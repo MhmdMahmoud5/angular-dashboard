@@ -1,0 +1,9 @@
+
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url("https://www.maids.cc/assets/images/logos/blue/Get-a-full-time-maid-or-a-maid-visa.svg?_v=18");
+  background-size: cover;
+}
